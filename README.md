@@ -1,3 +1,5 @@
 # Exam_sep_21
 
-[Assignment 2](https://github.com/jipswartjes/Assignment/blob/master/assignment2%20(1)%20(1).ipynb)
+[Exam R september 7, 2018](https://github.com/jipswartjes/Exam_sep_21/blob/master/Exam%20R%20September%207%2C%202018.ipynb)
+
+
